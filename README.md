@@ -1,7 +1,7 @@
 # Spider-Man Miles Morales
 
 <p align="center">
-  <img src="svg/logo-spiderman.svg" alt="logo do projeto Spiderman Miles Morales" border="0">
+  <img src="svg/logo-spiderman.svg" alt="logo do projeto Spiderman Miles Morales" border="0" width="128px" height="128px">
 </p>
 
 💡 Esse é o projeto Spider-man Miles Morales, desevnvolvido no curso frontPUSH. 
