@@ -29,13 +29,16 @@ header{
     
     li{
         margin-left: 24px;
+        
+        &:last-child > a{
+            color: $red;
+        }
     }
 
     @include responsive(){
         display: none;
     }
 }
-
 .nav-link{
     display: inline-block;
     padding: 8px 16px;
